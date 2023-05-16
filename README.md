@@ -1,4 +1,4 @@
-# 👋 About Me: [![](https://visitcount.itsvg.in/api?id=jerryhuangyu&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
+# 👋 About Me:
 
 🔭 I’m currently working on<br>
 👯 I’m looking to collaborate on<br>
