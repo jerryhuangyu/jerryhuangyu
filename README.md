@@ -1,6 +1,6 @@
 # 👋 About Me:
 
-🔭 I am currently studying in graduate school and about to graduate.<br>
+🔭 passionate about learning and developing various programming languages and frameworks<br>
 🤝 I’m looking for frontend job<br>
 🌱 I’m currently learning nextjs<br>
 
