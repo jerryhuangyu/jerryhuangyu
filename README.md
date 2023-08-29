@@ -1,6 +1,7 @@
 # 👋 About Me:
 
-🔭 passionate about learning and developing various programming languages and frameworks<br>
+👨‍🎓 A master’s graduate from National Cheng Kung University<br>
+🔭 passionate about learning and developing<br>
 🤝 I’m looking for frontend job<br>
 🌱 I’m currently learning nextjs<br>
 
