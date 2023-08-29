@@ -1,7 +1,7 @@
 # 👋 About Me:
 
 👨‍🎓 A master’s degree from National Cheng Kung University<br>
-🔭 passionate about learning and developing<br>
+🔭 Passionate about learning and developing<br>
 🤝 I’m looking for frontend job<br>
 🌱 I’m currently learning nextjs<br>
 
