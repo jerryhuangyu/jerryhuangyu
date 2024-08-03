@@ -2,7 +2,7 @@
 
 25-year-old developer based in Taiwan. M.Eng. from NCKU.
 
-- Check out my [website](https://jerry-portfolio.vercel.app/) to learn more about me.
+- Check out my [website](https://jerrytech.vercel.app/) to learn more about me.
 - Explore my [VS Code Configuration](https://github.com/jerryhuangyu/vscode-settings) for development optimization.
 
 ## 📦 Toolbox
