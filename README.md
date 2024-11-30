@@ -1,21 +1,17 @@
-### Hey, I'm Jerry 👋
+<h3 align="center">
+ Hey, I'm Jerry 👋
+</h3>
 
-25-year-old developer based in Taiwan. M.Eng. from NCKU.
+<p align="center">
+  <samp>
+    <a target="_blank" href="https://jerrytech.vercel.app/">me</a> .
+    <a target="_blank" href="https://jerrytech-blog.vercel.app/">blog</a>
+  </samp>
+</p>
 
-- Check out my [website](https://jerrytech.vercel.app/) to learn more about me.
-- Explore my [VS Code Configuration](https://github.com/jerryhuangyu/vscode-settings) for development optimization.
-
-## 📦 Toolbox
-
-**Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Material-UI` `Framer-Motion` 
-
-**Backend Development:** `Express.js` 
-
-**Version Control:** `Git` `GitHub` 
-
-**Testing:** `Vitest` `Postman` 
-
-**Others:** `a11y` `i18n` `Scrum` 
+<p align="center">
+ A developer based in Taiwan. M.Eng. from NCKU.
+</p>
 
 ## ✨ Fun Facts 
 
