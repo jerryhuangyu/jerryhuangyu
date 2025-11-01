@@ -9,16 +9,7 @@
   </samp>
 </p>
 
-<p align="center">
- A developer based in Taiwan. M.Eng. from NCKU.
-</p>
-
-## ✨ Fun Facts 
-
-- Brooklyn Nine-Nine is my favorite TV series.
-- Love using Unix-based OS after switching from Window.
-
 ## 📫 Contact
 
- For a quick response, DM me on [Instagram](https://www.instagram.com/codingyu/) or [LinkedIn](https://www.linkedin.com/in/jerryhuangyu/). 
+ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/jerryhuangyu/). 
  
