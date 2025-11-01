@@ -4,8 +4,8 @@
 
 <p align="center">
   <samp>
-    <a target="_blank" href="https://jerrytech.vercel.app/">me</a> .
-    <a target="_blank" href="https://jerrytech-blog.vercel.app/">blog</a>
+    <a target="_blank" href="https://huang-yu.vercel.app/en">me</a> .
+    <a target="_blank" href="https://huang-yu.vercel.app/blog">blog</a>
   </samp>
 </p>
 
